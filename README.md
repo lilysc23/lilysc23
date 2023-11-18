@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Lily!
+### Hi there 👋 my name is Lily Chen!
 
 <!--
 **lilysc23/lilysc23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
